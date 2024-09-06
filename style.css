@@ -1,0 +1,74 @@
+body {
+  background-color: antiquewhite;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia;
+}
+img {
+  height: 50%;
+  width: 70%;
+  margin: 4px;
+  border-radius: 50px;
+  object-fit: cover;
+}
+
+section {
+  display: flex;
+}
+.name {
+  margin-left: 300px;
+  font-size: 30px;
+}
+.about-me {
+  font-size: 20px;
+}
+
+.image-content {
+  border: 1px solid black;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 75%;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.profile {
+  font-size: 50px;
+
+  text-align: center;
+}
+
+.educate {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#aptech {
+  font-size: 50%;
+}
+ul,
+li {
+  font-weight: bold;
+}
+.experience {
+  margin-left: 400px;
+}
+.work {
+  font-size: 30px;
+}
+.create {
+  font-size: 25px;
+}
+.senior {
+  font-size: 25px;
+}
+img {
+  width: 330px;
+  height: 330px;
+}
+.paragraph {
+  font-size: 20px;
+}
